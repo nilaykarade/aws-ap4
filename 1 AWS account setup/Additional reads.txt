@@ -1,0 +1,14 @@
+What is cloud computing?
+https://aws.amazon.com/what-is-cloud-computing/
+
+How do I create and activate a new AWS account?
+https://repost.aws/knowledge-center/create-and-activate-aws-account
+
+AWS Free tire
+https://aws.amazon.com/free/
+
+How do I make sure that I’m not billed again while I’m using the AWS Free Tier?
+https://youtu.be/6TWhEZtEasc
+
+Requesting Wave Off AWS Bill in Free Trial
+https://patelsandeep88.medium.com/requesting-wave-off-aws-bill-in-free-trial-3aeb465cb5b7
